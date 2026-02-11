@@ -1,6 +1,6 @@
 # Usage Guide: Common Payment Scenarios
 
-This guide demonstrates common usage patterns for the lib-rails library with practical examples.
+This guide demonstrates common usage patterns for the library-rails library with practical examples.
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ This guide demonstrates common usage patterns for the lib-rails library with pra
 ```xml path=null start=null
 <dependency>
     <groupId>com.firefly</groupId>
-    <artifactId>lib-rails</artifactId>
+    <artifactId>library-rails</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```

@@ -20,7 +20,7 @@ The library implements **Ports and Adapters** pattern to separate business logic
                │ depends on
                ▼
 ┌─────────────────────────────────────────┐
-│       Domain Layer (lib-rails)          │
+│       Domain Layer (library-rails)          │
 │                                         │
 │  ┌──────────────────────────────────┐  │
 │  │ Ports (Interfaces)               │  │

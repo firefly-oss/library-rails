@@ -1,6 +1,6 @@
 # Implementation Guide: Building a New Payment Rail
 
-This guide provides step-by-step instructions for implementing a new payment rail (like SEPA) using the lib-rails framework.
+This guide provides step-by-step instructions for implementing a new payment rail (like SEPA) using the library-rails framework.
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ Implementing a new rail involves:
 ```xml
 <dependency>
     <groupId>com.firefly</groupId>
-    <artifactId>lib-rails</artifactId>
+    <artifactId>library-rails</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```

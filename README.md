@@ -8,7 +8,7 @@ A comprehensive Banking Payment Rails abstraction library for the Firefly platfo
 
 ## Overview
 
-The `lib-rails` library provides a unified, type-safe interface for integrating with multiple Banking Payment Rails (ACH, SWIFT, SEPA, FPS, RTP, etc.) while maintaining clean architecture and rail independence.
+The `library-rails` library provides a unified, type-safe interface for integrating with multiple Banking Payment Rails (ACH, SWIFT, SEPA, FPS, RTP, etc.) while maintaining clean architecture and rail independence.
 
 ### Supported Banking Rails
 
@@ -68,7 +68,7 @@ The `lib-rails` library provides a unified, type-safe interface for integrating 
 ```xml
 <dependency>
     <groupId>com.firefly</groupId>
-    <artifactId>lib-rails</artifactId>
+    <artifactId>library-rails</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```
@@ -369,7 +369,7 @@ Use for:
 
 To add a new banking rail implementation:
 
-1. Create a new module (e.g., `lib-rails-ach-impl`)
+1. Create a new module (e.g., `library-rails-ach-impl`)
 2. Implement the 9 port interfaces (47 methods, ~1,500 lines of rail-specific logic)
 3. Extend `AbstractRailService` (~5 lines)
 4. Extend 9 abstract controllers (~50 lines total)
@@ -398,7 +398,7 @@ To add a new banking rail implementation:
 
 ## Technical Details
 
-- **Artifact**: `lib-rails`
+- **Artifact**: `library-rails`
 - **Java**: 21
 - **Framework**: Spring Boot 3.x + WebFlux
 - **Architecture**: Hexagonal (Ports & Adapters)

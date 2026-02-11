@@ -1,4 +1,4 @@
-# Testing Guide for lib-rails
+# Testing Guide for library-rails
 
 This document explains the comprehensive test suite for the Firefly Banking Rails Library.
 
@@ -15,7 +15,7 @@ This document explains the comprehensive test suite for the Firefly Banking Rail
 
 ## Overview
 
-The lib-rails library includes a comprehensive test suite validating the **business proposition**: *unified, rail-independent payment processing abstraction*.
+The library-rails library includes a comprehensive test suite validating the **business proposition**: *unified, rail-independent payment processing abstraction*.
 
 ### Testing Philosophy
 

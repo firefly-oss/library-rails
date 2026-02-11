@@ -1,4 +1,4 @@
-# lib-rails Documentation
+# library-rails Documentation
 
 Complete documentation for the Firefly Banking Rails Abstraction Library.
 
@@ -85,7 +85,7 @@ High-level overview of the project including key metrics, component breakdown, a
 **Topics**: Project statistics, component counts, technology stack
 
 ### ULTIMATE_FEATURES.md
-The most comprehensive feature documentation covering all 54+ features with detailed examples, code snippets, and implementation notes. Your go-to reference for everything lib-rails can do.
+The most comprehensive feature documentation covering all 54+ features with detailed examples, code snippets, and implementation notes. Your go-to reference for everything library-rails can do.
 
 **Topics**: All features, code examples, API reference, rail-specific details
 
@@ -100,7 +100,7 @@ Advanced features and patterns including two-phase commit, SCA flows, scheduled 
 **Topics**: Advanced patterns, complex workflows, security, scheduling
 
 ### REAL_WORLD_FEATURES.md
-Practical use cases and real-world scenarios demonstrating how lib-rails solves actual business problems.
+Practical use cases and real-world scenarios demonstrating how library-rails solves actual business problems.
 
 **Topics**: Use cases, scenarios, problem-solution mapping
 
