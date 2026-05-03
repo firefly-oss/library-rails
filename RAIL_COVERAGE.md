@@ -154,6 +154,6 @@ To fully implement a new rail:
 
 ## License
 
-Copyright 2025 Firefly Software Solutions Inc
+Copyright 2025 Firefly Software Foundation
 
 Licensed under the Apache License, Version 2.0

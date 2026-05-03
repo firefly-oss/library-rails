@@ -1057,4 +1057,4 @@ public class SettlementService {
 ---
 
 **License**: Apache 2.0  
-**Copyright**: 2025 Firefly Software Solutions Inc
+**Copyright**: 2025 Firefly Software Foundation
